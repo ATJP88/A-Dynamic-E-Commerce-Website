@@ -183,7 +183,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `name`, `email`, `password`) VALUES
-(11, 'Praneetha', 'pranee@gmail.com', 'pranee,),
+(11, 'Praneetha', 'pranee@gmail.com', 'pranee'),
 (12, 'Sidhu', 'sidhu@hotmail.com', 'sidhu'),
 (13, 'Jai', 'jai@gmail.com', 'jai'),
 (14, 'Vidya', 'vidya@yahoo.in', 'vidya'),
