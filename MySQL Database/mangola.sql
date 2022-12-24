@@ -183,23 +183,22 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `name`, `email`, `password`) VALUES
-(42, 'Dhvanil', 'dhvanilpatel@gmail.com', 'dhvanil'),
-(41, 'Chayan', 'chayanmaida@hotmail.com', 'chayan'),
-(40, 'Bananta', 'banantabala@gmail.com', 'bananta'),
-(38, 'Anindo', 'anindodas@yahoo.in', 'anindo'),
-(39, 'Vishal', 'vishalrc_1@gmail.com', 'vishal'),
-(37, 'Agnish', 'agnishgupta@gmail.com', 'agnish'),
-(36, 'Mamta', 'mamtabanarjee@tmc.com', 'mamta'),
-(19, 'Admin', 'admin@mangola.com', '1234'),
-(35, 'Lalu', 'yadav_lalu@bihar.com', 'bihari'),
-(31, '', '', ''),
-(34, 'Rahul', 'gandhi.rahul@congress.com', 'abcd'),
-(33, 'Modi', 'narendra_modi@bjp.com', 'namo'),
-(18, 'Anirban', 'anirban@anirban.com', '1234'),
-(43, 'Niloy', 'niloyburdhan@hotmail.com', 'niloy'),
-(44, 'Rana Pratap', 'ranapratap@hotmail.com', 'ranapratap'),
-(45, 'Sourav', 'souravnaskar@rediffmail.com', 'sourav'),
-(46, 'Subhradip', 'subhradiprustyroy@rediffmail.com', 'rusty');
+(11, 'Praneetha', 'pranee@gmail.com', 'pranee),
+(12, 'Sidhu', 'sidhu@hotmail.com', 'sidhu'),
+(13, 'Jai', 'jai@gmail.com', 'jai'),
+(14, 'Vidya', 'vidya@yahoo.in', 'vidya'),
+(15, 'Arjun', 'arjun@gmail.com', 'arjun'),
+(16, 'Saraswathi', 'sas@gmail.com', 'saras'),
+(17, 'Manju', 'manju@tmc.com', 'manju'),
+(18, 'Admin', 'admin@mangola.com', 'admin'),
+(19, 'vijay', 'vijay@bihar.com', 'vijay'),
+(20, 'Rahul', 'gandhi.rahul@congress.com', 'abcd'),
+(21, 'Modi', 'narendra_modi@bjp.com', 'namo'),
+(22, 'Anirban', 'anirban@anirban.com', '1234'),
+(23, 'Niloy', 'niloyburdhan@hotmail.com', 'niloy'),
+(24, 'Rana Pratap', 'ranapratap@hotmail.com', 'ranapratap'),
+(25, 'Sourav', 'souravnaskar@rediffmail.com', 'sourav'),
+(26, 'Subhradip', 'subhradiprustyroy@rediffmail.com', 'rusty');
 
 -- --------------------------------------------------------
 
